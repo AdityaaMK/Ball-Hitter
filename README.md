@@ -1,3 +1,3 @@
 # Ball-Hitter
 
-![](App.mov =250x)
+![](App.mov)
